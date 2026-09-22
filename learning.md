@@ -117,3 +117,52 @@ Prime
     - HTML → structure
     - JS → logic
     - JSX → structure + logic together.
+
+16) what is vite?
+    - It's a modern frontend `build tool`.
+    - It helps you to create and run your web application.
+    - It is very fast and efficient.
+    
+17) what do you mean by build?
+    - when we deploy ,  it takes 5 seconds to deploy?
+    - it will convert all the jsx to js and bundle it into a single file.
+    - it will minify the code.
+
+18) what is package.json?
+    - collection of all the libraries installed in this project
+    - it also contains scripts.
+    - it also contains dependencies.
+
+19) what is json stand for?
+    - JavaScript Object Notation
+
+20) what do you mean by node modules?
+    - collection of all the libraries installed in this project
+    - it is a folder that contains all the libraries needed for this project
+    
+21) what does `cd` mean?
+    - change directory or change folder
+
+22) what does `npm init -y` this do?
+    - it initializes a `package.json` file
+
+23) what is `package-lock.json`
+    - It’s like a “fingerprint” of exactly which library versions are installed.
+    - ensures everyone on your team gets the **exact same library versions**
+
+24) what is `"react": "^19.3.0",`
+    - this means, 19.3.0 is the minimum version required, and any version greater than or equal to this is acceptable.
+    - 19 shows major version
+    - 3 shows minor version
+    - 0 shows patch version
+
+25) what is patch version?
+    - bug fixes, performance improvements, small changes
+    - 19.3.0 -> 19.3.1
+
+26) 19.0.0. -> big release -> 19.1.0 => login, 19.2.0 -> register, 19.3.0 -> profile
+    - these are minor releases
+    - 19.3.1 -> added login validation ( patch)
+    - 20.0.0 -> (login, regist, profile) + chat, games, movies, notifications
+
+27) 
