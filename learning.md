@@ -191,3 +191,5 @@ Prime
     - -m -> message
     - this command is used to commit the changes we have made to our git repository.
     - in simple terms, it save our changes
+
+32) if we commit the changes, all the changes are saved in local repository. 
