@@ -190,4 +190,4 @@ Prime
 31) what does -m in `git commit -m ` means?
     - -m -> message
     - this command is used to commit the changes we have made to our git repository.
-    - in simple terms, it save our ch
+    - in simple terms, it save our changes
