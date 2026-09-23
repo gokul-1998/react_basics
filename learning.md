@@ -185,3 +185,9 @@ Prime
 
 30) what does `git add .` do?
     - it will stage all the changes
+
+
+31) what does -m in `git commit -m ` means?
+    - -m -> message
+    - this command is used to commit the changes we have made to our git repository.
+    - in simple terms, it save our ch
