@@ -165,4 +165,23 @@ Prime
     - 19.3.1 -> added login validation ( patch)
     - 20.0.0 -> (login, regist, profile) + chat, games, movies, notifications
 
-27) 
+27) ![alt text](image.png)
+    - what is this 88 means?
+        - it means there are 88 files we have either created or modified
+
+28) what is `.gitignore`?
+    - it is a file, we create, it tell git to ignore the content we mention in it
+    - 
+    - Node modules
+    - venv
+    - pycache
+    - .env
+
+
+29) why do we need to add `node_modules` to gitignore?
+    - it will take so much space
+    - git wont allow us to add files or folder more than a  specified size
+    - we can always download the libraries as many times as possible, no worries, we dont need to worry about adding it to our repo
+
+30) what does `git add .` do?
+    - it will stage all the changes
