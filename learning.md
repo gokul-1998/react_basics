@@ -193,3 +193,26 @@ Prime
     - in simple terms, it save our changes
 
 32) if we commit the changes, all the changes are saved in local repository. 
+
+33) `git push` -> this will save our changes to the remote repository.
+
+34) what is  json ? 
+    - syntax of storing data in key value pairs
+    - {"name": "gokul", "age": 24, "city": "chennai"}
+    - backend can be in differnt techlogies:
+        - python
+        - node js
+        - java
+        - php
+        - go
+    - frontend needs to understand what backend is saying
+    - json is the common language for FE and BE
+
+35) what is a dictionary?
+    - key value pair
+    - igloo
+
+36) why json?
+    - it very small in size than entire html
+    - easy to parse
+    - easy to understand
