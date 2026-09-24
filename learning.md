@@ -216,3 +216,42 @@ Prime
     - it very small in size than entire html
     - easy to parse
     - easy to understand
+
+37) how to go to previous commit 
+    - `git checkout 5102cd86fe60bef98ae8a978b0a3435cd43b9668`
+
+38) what is liveserver?
+    - it will temporirly run the html files ,
+    - used to host html files locally
+
+39) what is the command to run the frotend apps
+    - `npm run dev`
+
+40) what is the meaning of `render`
+    - to show in frotend or in chrome
+    - to combine all the things and show it on the screen
+
+41) How does React Work?
+    - React creates a VIRTUAL DOM in memory.
+    - Instead of manipulating the browser's DOM directly, React creates a virtual DOM in memory, where it does all the necessary manipulating, before making the changes in the browser DOM.
+    - React only changes what needs to be changed!
+    - React finds out what changes have been made, and changes only what needs to be changed.
+
+42) what is diff between npm and node?
+    - npm ->  "Package Manager" for JavaScript.
+    - Node -> "Runtime Environment" for JavaScript.
+    - we need node to use npm
+
+43) diff
+```
+npm create vite@latest my-project
+cd my-project
+
+or 
+
+npm install -g create-vite
+```
+    - `npm install -g create-vite` this will only install the vite package or library, -`g` means globally. it wont create a react app.
+
+
+44) `npm create vite@latest my-react-app -- --template react`
