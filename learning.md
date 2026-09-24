@@ -255,3 +255,26 @@ npm install -g create-vite
 
 
 44) `npm create vite@latest my-react-app -- --template react`
+
+
+45) why does it run in `http://localhost:5175/`?
+    - why not 5173 the usual one?
+    - because 5173 and 5174 is already running somewhere
+
+
+46) what is `svg`
+    - it is an image without background
+    - 
+
+47) what is `<StrictMode>`
+    - It is just a tool provided by React to help identify potential problems in our application.
+    - It does not render any visible UI.
+    - It doesn't add any runtime performance overhead.
+    - It performs extra checks and warnings to make our development process easier.
+    - It makes sure that your components are safe to use in the future.
+    - eg: 
+        - component re render twice in development mode
+        - warn about legacy APIs
+        - useEffect dependency array can cause infinite loops
+
+48) 
